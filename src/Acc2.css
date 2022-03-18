@@ -1,0 +1,247 @@
+.circleV1{
+    padding-left: 0.85vw;
+    padding-right: 0.85vw;
+    border-radius: 50%;
+    padding-top: 0.5vw;
+    padding-bottom: 1.6vw;
+    font-size: 0.8vw;
+    border: 0.2vw solid rgb(13, 146, 73);
+    color: rgb(0, 117, 108);
+   height: 0.8vw;
+   margin-left: 1vw;
+   font-weight: bolder;
+}
+
+
+.circles{
+    padding-left: 0.85vw;
+    padding-right: 0.85vw;
+    border-radius: 50%;
+    padding-top: 0.5vw;
+    padding-bottom: 1.6vw;
+    font-size: 0.8vw;
+    border: 0.2vw solid rgb(12, 155, 173);
+    color: rgb(27, 105, 136);
+   height: 0.8vw;
+   margin-left: 1vw;
+   font-weight: bolder;
+}
+
+.circles11{
+    padding-left: 0.85vw;
+    padding-right: 0.85vw;
+    border-radius: 50%;
+    padding-top: 0.5vw;
+    padding-bottom: 1.6vw;
+    font-size: 0.8vw;
+    border: 0.2vw solid rgb(172, 98, 2);
+    color: rgb(126, 71, 0);
+   height: 0.8vw;
+   margin-left: 1vw;
+   font-weight: bolder;
+}
+
+
+.circles12{
+    padding-left: 0.85vw;
+    padding-right: 0.85vw;
+    border-radius: 50%;
+    padding-top: 0.5vw;
+    padding-bottom: 1.6vw;
+    font-size: 0.8vw;
+    border: 0.2vw solid rgb(214, 146, 56);
+    color: rgb(214, 159, 87);
+   height: 0.8vw;
+   margin-left: 1vw;
+   font-weight: bolder;
+}
+
+.circleV2{
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+    border-radius: 50%;
+    padding-top: 0.2vw;
+    padding-bottom: 0.2vw;
+    font-size: 0.8vw;
+    border: 0.2vw solid rgb(44, 158, 187);
+    color: rgb(0, 106, 155);
+    font-weight: bolder;
+}
+
+.circleV{
+    padding-left: 0.85vw;
+    padding-right: 0.85vw;
+    border-radius: 50%;
+    padding-top: 0.5vw;
+    padding-bottom: 1.6vw;
+    font-size: 0.8vw;
+    border: 0.2vw solid #27c43c;
+    color: #20d164;
+   height: 1vw;
+   margin-top: 0.5vw;
+  font-weight: bolder;
+}
+
+
+p{
+    margin-left: 1vw;
+    font-size: 1vw;
+}
+.circleP{
+    margin-top: 1vw;
+    margin-left: 8vw;
+    
+}
+.circlePP{
+    margin-top: 1.35vw;
+    margin-left: 1vw;
+}
+/* #more{
+    font-size: 1vw;
+    font-weight: bolder;
+    margin-top: 1.2vw !important;
+} */
+#activity{
+    margin-top: 1vw;
+}
+#activitygoal{
+    font-size: 1vw;
+    margin-top: 0.19vw;
+    margin-left: 0.1vw;
+}
+
+.plusss{
+    font-size: 1vw;
+    position: absolute;
+}
+
+
+#veg{
+    display: flex;
+    border-top: 0.1vw solid silver;
+    font-size: 1vw;
+}
+
+#vg{
+    margin-top: 1vw;
+}
+
+#pipe{
+    font-size: 1.5vw;
+    margin-left: 15.3vw;
+    margin-top: 1vw;
+}
+
+#pipee {
+    position: absolute;
+    margin-left: 1.5vw;
+    margin-top: 1vw;
+    font-size: 1.7vw;
+}
+#vg{
+    margin-top: 1vw;
+}
+#vgg{
+    margin-top: 0.4vw;
+    margin-left: 4.4vw;
+    padding: 1vw;
+}
+
+#poppp{
+    border: none;
+    background-color: white;
+    font-size: 1.6vw;
+}
+
+#boxxx {
+    margin-top: -7vw;
+    margin-left: -15vw;
+   background: linear-gradient(90deg, rgba(7,140,162,1) 40%, rgb(87, 221, 201) 75%, rgb(27, 182, 110) 100%) !important;
+   border: none;
+   color: white;
+   font-size: 1.3vw;
+   font-size: 1vw;
+}
+
+/* #boxxx2 {
+    margin-top: -7vw;
+    margin-left: -15vw;
+   background-color: lightgreen !important;
+   border: none;
+   color: white;
+   font-size: 1.3vw;
+   font-weight: 500;
+} */
+
+#opn{
+    margin-top: -7vw;
+    margin-left: 5vw;
+   background-color: rgb(255, 0, 0) !important;
+}
+
+
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root.Mui-expanded {
+    min-height: 0px !important;
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root.Mui-expanded {
+    margin: 16px 0 !important;
+}
+
+
+#run{
+    height: 2.3vw;
+    position: absolute;
+    width: 2.3vw;
+    margin-left: -3vw;
+    color: orange;
+    border-radius: 50%;
+    border: 0.2vw solid orange;
+    
+ 
+}
+
+#bot{
+    height: 2.3vw;
+    position: absolute;
+    width: 2.3vw;
+    margin-left: -3vw;
+    color: rgb(27, 197, 209);
+    border-radius: 50%;
+    border: 0.2vw solid rgb(27, 197, 209);;
+}
+
+
+#activityy{
+    font-weight: bolder;
+    font-size: 1.3vw;
+    margin-top: 1vw;
+    /* border-top: 0.1vw solid silver; */
+    border: 0.1vw solid silver;
+    padding: 1vw;
+}
+
+
+#poppp3{
+    border: none;
+    background-color: white;
+    font-size: 1.6vw;
+    float: right;
+}
+
+
+#poppp2 {
+    border: none;
+    background-color: white;
+    font-size: 1.6vw;
+    margin-top: -2vw;
+    position: absolute;
+    margin-left: -1.6vw;
+}
+
+
+#ppp{
+    font-weight: lighter;
+    font-size: 1vw;
+    margin-left: 0;
+}

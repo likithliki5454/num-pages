@@ -1,0 +1,103 @@
+#acmain{
+    width: 85vw;
+    display: flex;
+    padding: 1vw;
+    margin-top: 1.5vw;
+}
+
+#leftacordian{
+    width: 50vw;
+}
+
+#panel1bh-header{
+    border-top: 0.1vw solid #c5c5c5;
+}
+
+#breakfast{
+    color: rgb(0, 85, 141);
+    font-size: 1.3vw;
+    width: 24vw;
+    font-weight: 500;
+}
+
+#breakfast2{
+    color: rgb(195 125 0);
+    font-size: 1.3vw;
+    width: 24vw;
+    font-weight: 500;
+}
+
+#breakfast3{
+    color: rgb(167, 39, 39);
+    font-size: 1.3vw;
+    width: 24vw;
+    font-weight: 500;
+}
+
+#bfblock{
+    display: flex;
+}
+
+#bflogos{
+    display: flex;
+    font-size: 1.8vw;
+    color: #065c8d;
+}
+
+
+#adetails{
+    display: flex;
+    margin-top: 1vw;
+    border-bottom: 0.1vw solid rgb(187, 180, 180);
+}
+
+#adetails1{
+    width: 46.8vw;
+    
+}
+
+
+
+
+#ne{
+    border: 0.1vw solid #46ff90;
+    border-radius: 4vw;
+    font-size: 1vw;
+}
+
+#inrname{
+font-size: 0.8vw;
+padding: 0.1vw;
+color: rgb(0, 89, 95);
+font-weight: 700;
+margin-left: 0.1vw
+}
+
+#text{
+    margin-left: 1vw;
+    font-size: 1vw;
+    font-weight: 600;
+}
+
+#plusi{
+   font-size: 1.5vw;
+}
+
+#more{
+    font-size: 1vw;
+    margin-left: 3vw;
+    margin-top:-1.9vw;
+    font-weight: 500;
+}
+
+#lmore{
+    display: flex;
+    margin-top: 1vw;
+    margin-left: 0.7vw;
+}
+
+
+#rightblk{
+    width: 28vw;
+    margin-left: 3vw;
+}
